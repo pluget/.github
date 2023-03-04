@@ -21,5 +21,19 @@ or to appropriate repository to which the issue is connected to.
 Work in progress...
 You can read the READMEs in the repositories.
 
+# Repositories
+## Archived repositories
+Archived repositories are the artefact of the early stage of the development process. If you want to gain more intel on how this project came to be, you can take a look, but it is very probable that you wouldn't find anything interesting in there.
+
+## List of active repositories
+ - [api](https://github.com/pluget/api) - Code for the API server, that is hosted at [api.pluget.net](https://api.pluget.net)
+ - [cli](https://github.com/pluget/cli) - Code for the CLI tool, also known as mpm - Minecraft (Server) Package Manager. Similar principles to the npm - Node Package Manager.
+ - [website](https://github.com/pluget/website) - Code of the website listing Minecraft plugins, available at [pluget.net](https://pluget.net)
+ - [cli_website](https://github.com/pluget/cli_website) - Code of the website that is the front-page for pluget cli (also known as mpm), available at [mpm.gg](https://mpm.gg)
+ - [repository](https;//github.com/pluget/repository) - Repository of scraped data about Minecraft plugins.
+ - [services](https://github.com/pluget/services) - Services that are periodically being run on PluGet infrastructure (aka some random laptop / sbc at my home).
+ - [wiki](https://github.com/pluget/wiki) - Documentation for all of the PluGet tools.
+ - [todo](https://github.com/pluget/todo) - To-Do list for the developer(maybe developer*s* in the future) and contributors of this project. Things that need to be worked on in this project. Using markdown (Obsidian's version of it).
+
 # Fun fact
 I want to die.
