@@ -10,7 +10,7 @@
 -->
 # What is PluGet
 PluGet is a API / Website / Repository, that main focus is to provide easy access to all of the Minecraft server plugins.
-This project will help you to get the infomation about any project that you are interested, see if it is compatible with your Minecraft server,
+This project will help you to get the infomation about any project that you are interested in, see if it is compatible with your Minecraft server,
 and download any version that has been released.
 
 # How to contribute
